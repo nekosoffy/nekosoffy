@@ -28,7 +28,7 @@
 <div style="display: flex; flex-direction: column;">
     <div align="center">
         <a href="https://github.com/nekosoffy/restaurant-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nekosoffy&repo=restaurant-page&theme=dracula&&description_lines_count=2" /></a>
-        <a href="https://github.com/nekosoffy/dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nekosoffy&repo=dashboard&theme=dracula&description_lines_count=2" align="left" /></a>
+        <a href="https://github.com/nekosoffy/dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nekosoffy&repo=dashboard&theme=dracula&description_lines_count=2" /></a>
     </div>
     <div align="center">
         <a href="https://github.com/nekosoffy/sign-up-form"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nekosoffy&repo=sign-up-form&theme=dracula&&description_lines_count=2" /></a>
