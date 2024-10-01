@@ -13,8 +13,9 @@
     </div>
     <div align="center">
         <a href="https://github.com/nekosoffy/to-do-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nekosoffy&repo=to-do-list&theme=dracula&description_lines_count=2" /></a>
+        <a href="https://github.com/nekosoffy/weather-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nekosoffy&repo=weather-app&theme=dracula&description_lines_count=2" /></a>
     </div>
-<div style="display: flex; flex-direction: column;">
+</div>
 
 ## Games
 <div style="display: flex; flex-direction: column;">
