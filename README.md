@@ -35,11 +35,3 @@
         <a href="https://github.com/nekosoffy/sign-up-form"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nekosoffy&repo=sign-up-form&theme=dracula&&description_lines_count=2" /></a>
     </div>
 </div>
-
-## Gists
-<div style="display: flex; flex-direction: column;">
-    <div align="center">
-        <a href="https://gist.github.com/nekosoffy/ad9fbd7143e13b6e10962523f797719b"><img src="https://github-readme-stats.vercel.app/api/gist?id=ad9fbd7143e13b6e10962523f797719b&theme=dracula" /></a>
-        <a href="https://gist.github.com/nekosoffy/0c6b22ae0a1a4b3718da9696b0892256"><img src="https://github-readme-stats.vercel.app/api/gist?id=0c6b22ae0a1a4b3718da9696b0892256&theme=dracula" /></a>
-    </div>
-</div>
