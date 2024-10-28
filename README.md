@@ -35,7 +35,7 @@ Here are the main projects I have authored up until now. They've helped me hone 
 - **[To-do List](https://github.com/nekosoffy/to-do-list)** - **Insight:** use of Local Storage for data persistence accross sessions;
 - **[Library](https://github.com/nekosoffy/library)** - **Insight:** dynamic DOM manipulation to reflect underlying data change;
 - **[Weather Application](https://github.com/nekosoffy/weather-app)** - **Insight:** Fetch API for asynchronous requests and JSON parsing to handle the received data;
-- **[Calculator](https://github.com/nekosoffy/calculator)** - **Insight:** event handling and event delegation.
+- **[Calculator](https://github.com/nekosoffy/calculator)** - **Insight:** event handling, event delegation and keyboard support.
 
 ### Games
 - **[Battleship](https://github.com/nekosoffy/battleship)** - **Insight:** drag and drop implementation, game algorithm for CPU and thorough testing of public interface with Jest;
