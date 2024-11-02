@@ -9,7 +9,7 @@ But not only that, developing allows me to connect with a community of other peo
 
 In fact, throughout my learning experience, I've come to appreciate the importance of effective communication and asking questions. When you hit a roadblock, being able to rely on your team is invaluable. This aligns perfectly with one of my main objectives: to become a reliable partner that others can count on. I aspire to be someone people can turn to for help, just as I will seek assistance from them countless times. 
 
-Ultimately, I want to contribute meaningfully to the community in a way that feels authentic and not like another cookie-cutter approach. I understand this journey won't be short or easy, and it may never truly end, but I'm excited about the road ahead. My repositories tell a bit of this learning adventure.
+Ultimately, I want to contribute meaningfully to the community in a way that feels authentic and not like another cookie-cutter approach. I understand this journey won't be short or easy, and it may never truly end, but I'm excited about the road ahead. Through my repositories, I share a bit of this learning adventure.
 
 ## Stats
 <p align="center">
